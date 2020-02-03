@@ -1,0 +1,6 @@
+C:\Users\1321200\Desktop\FileToText\FileToText\obj\Debug\FileToText.csproj.CoreCompileInputs.cache
+C:\Users\1321200\Desktop\FileToText\FileToText\bin\Debug\FileToText.exe.config
+C:\Users\1321200\Desktop\FileToText\FileToText\bin\Debug\FileToText.exe
+C:\Users\1321200\Desktop\FileToText\FileToText\bin\Debug\FileToText.pdb
+C:\Users\1321200\Desktop\FileToText\FileToText\obj\Debug\FileToText.exe
+C:\Users\1321200\Desktop\FileToText\FileToText\obj\Debug\FileToText.pdb
